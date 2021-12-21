@@ -3,6 +3,8 @@
 ## Overview
 This is the code I wrote for the TensorFlow - Help Protect the Great Barrier Reef Kaggle Competition. This competition was designed as an object detection challenge to identify Crown of Thorn Starfish (COTS). These overpopulated starfish are eat coral and pose a threat to The Great Barrier Reef.
 
+![image]()
+
 ## Repo Description
 This repo includes all my code for the competition. I used the TensorFlow Object Detection API (since they sponsored the competition). 
 - The under_water_enhancement folder includes some cool preprocessing tha make the image more visable to the human eye (although only minor improvements for a ML model). 
