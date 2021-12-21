@@ -11,4 +11,22 @@ This repo includes all my code for the competition. I used the TensorFlow Object
 - The generate_tfrecords.py file sets up the dataset to be used in a TFOD2 API model.
 - The generate_dataset.sh file is bash code to set up the dataset.
 - The train.ipynb is an example of a Kaggle Training Notebook.
-- THe submit.ipynb is an example of a Kaggle Notebook I submitted to the competition.
+- The submit.ipynb is an example of a Kaggle Notebook I submitted to the competition.
+
+## Data
+The offical 15 GB training dataset can be found here: 
+Some of my model weights can be found here:
+
+## Models
+- Faster-RCNN with Resnet-101 feature extractor
+- SSD Efficientdet d0
+
+## Augmentations
+- image resizer: pad min and max dimension to 1280
+- random_horizontal_flip
+- random_scale_crop_and_pad_to_square
+
+## Optimizer
+- momentum optimizer
+- cosine_decay_learning_rate
+- training steps = 20000, warmup steps = 2000
