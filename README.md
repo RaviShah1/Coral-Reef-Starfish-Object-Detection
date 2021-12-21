@@ -14,8 +14,8 @@ This repo includes all my code for the competition. I used the TensorFlow Object
 - The submit.ipynb is an example of a Kaggle Notebook I submitted to the competition.
 
 ## Data
-The offical 15 GB training dataset can be found here: 
-Some of my model weights can be found here:
+- The offical 15 GB training dataset can be found here: https://www.kaggle.com/c/tensorflow-great-barrier-reef/data
+- Some of my model weights can be found here: https://www.kaggle.com/ravishah1/cots-fasterrcnn-tfod-api-weights
 
 ## Models
 - Faster-RCNN with Resnet-101 feature extractor
