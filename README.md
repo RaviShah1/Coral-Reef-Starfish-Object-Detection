@@ -31,7 +31,7 @@ This repo includes all my code for the competition. I used the TensorFlow Object
 - cosine_decay_learning_rate
 - training steps = 20000, warmup steps = 2000
 
-## Sources
+## References
 - https://github.com/tensorflow/models/tree/master/research/object_detection
 - https://www.kaggle.com/khanhlvg/cots-detection-w-tensorflow-object-detection-api
 - https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration
